@@ -1,3 +1,5 @@
+ALLOWED_HOSTS = ['*'] 
+
 INSTALLED_APPS = [
     # ...
     'ip_tracking',
