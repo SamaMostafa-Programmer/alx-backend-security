@@ -1,0 +1,8 @@
+django
+gunicorn
+django-ipgeolocation
+django-ratelimit
+drf-yasg
+celery
+requests
+whitenoise
